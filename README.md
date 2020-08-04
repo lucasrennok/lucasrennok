@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**lucasrennok/lucasrennok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lucas Rennó Kallás
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+
+> I am a student from UNIFEI and I love programming. 
+
+- 🔭 I’m currently studying a lot of things everyday.
+- 🌱 I’m currently learning Reactjs and Nodejs.
+- 👯 I’m looking to collaborate on everything that uses software, I like to help and to learn more with other people. 
+- 🤔 I’m looking for help with R, Data Science and AI.
+- 📫 How to reach me: lucasrenn@gmail.com
+- ⚡ Fun fact: I drink much coffe even I'm not programming.
