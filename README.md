@@ -17,10 +17,9 @@ Somethings about me:
 
 ### Some notes
 
-- :zap: I’m currently studying a lot of things at programming everyday to improove my knowledge.
-- :cyclone: Now, I am studying ReactJs, Typescript and Nodejs.
-- :gem: I will be happy to help, I like to collaborate with other people and I think that I learn a lot with them too. 
-- 🤔 I am interested in Data Science so I need a bit of help with R and I am interested in AI too.
+- :cyclone: Now, I am studying ElectronJs.
+- :gem: Want some help? I will be happy to solve your question. 
+- 🤔 I am interested in Prime Faces and Hibernate.
 - 📫 How you can reach me: lucasrenn@gmail.com and [Linkedin](https://www.linkedin.com/in/lucas-renn%C3%B3-kall%C3%A1s-596417191/)
 - :speech_balloon: Curiosity: I drink much coffe even I'm not programming haha.
 
